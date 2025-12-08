@@ -1,5 +1,5 @@
-- Hello! My name is Hannah, and I'm a rising sophomore at the University of Pennsylvania majoring in Cognitive Science (Computation concentration) and minoring in Consumer Psychology and Chinese
-- I’m interested in artificial intelligence and machine learning, and my career / academic goal is to help make applications of these technologies more accessible + de-stigmatize the fear surrounding the field
+- Hello! My name is Hannah, and I'm a Master's student at Imperial College London for the Artificial Intelligence Applications and Innovation program. I'm a recent graduate from the University of Pennsylvania, where I majored in Cognitive Science (Computation concentration) and minored in Chinese. 
+- I’m interested in global AI governance, AI ethics, technological accessibility, experimentation with LLMs, responsible AI, explainability, fine-tuning methodologies, and implementing legal accountability in machines.
 - Email me at hannah.liu25@imperial.ac.uk to contact me
 
 <!---
